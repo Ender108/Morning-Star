@@ -1,5 +1,3 @@
-# Morning-Star
-
 ![Image](https://raw.githubusercontent.com/Ender108/Morning-Star/main/Morning-Star-Title-Picture.webp)
 
 <div align="center">
