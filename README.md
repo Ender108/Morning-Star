@@ -8,6 +8,8 @@
   
   </div>
 
+A simple Simonrim modlist.
+
 ## Requirements
 - The latest version (currently 1.6.1170.0 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported.
 - Fishing, Rare Curios, Saints & Seducers, and Survival Mode, which is free for all owners of Skyrim Special Edition. Morning Star does not and will not support any other Creation Club content other than the four listed.
