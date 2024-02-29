@@ -6,7 +6,7 @@
   
   </div>
 
-A simple Simonrim modlist.
+A simple and performance friendly modlist built around Simon Magus' series of gameplay overhauls.
 
 ## Requirements
 - The latest version (currently 1.6.1170.0 for Steam) of The Elder Scrolls V: Skyrim Special Edition. The GoG version of Skyrim is NOT supported.
