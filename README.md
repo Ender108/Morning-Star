@@ -114,7 +114,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 
 Downloading and installing Morning Star can take a while depending on your internet connection, PC specs, and if you have Nexus Premium. Without Premium, you will need to manually click the **Slow Download** button for each mod.
 
-To install Morning Star, complete the following steps.
+To install Morning Star, complete the following steps:
 
  1. Open Wabbajack and click `Browse lists`
  2. Pick the **Skyrim Special Edition** option from the game filter drop-down box (or use the search bar to find the modlist).
@@ -122,7 +122,6 @@ To install Morning Star, complete the following steps.
  4. Set the `Installation Location` to a folder such as `C:\Morning Star`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
     > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
- 5. Download the files from the [Missing Manual Downloads](#missing-manual-downloads) section and place them in your designated `Downloads Location` folder.
- 6. Press the `Install` button.
- 7. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
- 8. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/4WwqfK5yHg) for support.
+ 5. Press the `Install` button.
+ 6. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
+ 7. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/4WwqfK5yHg) for support.
