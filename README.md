@@ -69,7 +69,7 @@ To change your Skyrim SE's language:
 >[!WARNING]
 > ***Do NOT skip this step or your install may fail!***
 
-Since the 1.6.1130 update (January 17, 2024), Steam has begun including the free Creation Club (CC) files with the base installation of Skyrim. However, these files do not have the same file hash as the files that are downloaded from the in-game **Creations** menu for Anniversary Edition (AE) users. In order to comply with Wabbajack policy and minimize issues for users who own the AE update, Apostasy is compiled using the versions of the CC content that are obtained from the in-game **Creations** menu.  
+Since the 1.6.1130 update (January 17, 2024), Steam has begun including the free Creation Club (CC) files with the base installation of Skyrim. However, these files do not have the same file hash as the files that are downloaded from the in-game **Creations** menu for Anniversary Edition (AE) users. In order to comply with Wabbajack policy and minimize issues for users who own the AE update, Morning Star is compiled using the versions of the CC content that are obtained from the in-game **Creations** menu.  
 
 As a result of this, for users who do not own the AE, you must ensure that you download the correct version of the CC files. Steps below:
 
@@ -107,7 +107,7 @@ Once you have completed the pre-installation section, follow these steps to inst
 >[!IMPORTANT]
 >The list requires Wabbajack version **4.0.0.0 or later**. Installing the modlist on older versions of Wabbajack will result in issues.
 
-### Downloading and Installing Apostasy
+### Downloading and Installing Morning Star
 
 >[!CAUTION]
 >**A legal copy of Skyrim Special Edition is required.** Pirated copies of the game will cause the installation to fail and even if you manage to somehow get around Wabbajack's built-in piracy prevention measures, SKSE does not work with the cracked exes.  
@@ -118,7 +118,7 @@ To install Morning Star, complete the following steps.
 
  1. Open Wabbajack and click `Browse lists`
  2. Pick the **Skyrim Special Edition** option from the game filter drop-down box (or use the search bar to find the modlist).
- 3. Press the download arrow on the Apostasy UI card and wait for it to download
+ 3. Press the download arrow on the Morning Star UI card and wait for it to download
  4. Set the `Installation Location` to a folder such as `C:\Morning Star`.
     > - **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, OneDrive, etc.), or in your Skyrim's Steam folder**
     > - The `Downloads Location` does not need to be on an SSD, but it makes installing faster. You can set this location to an HDD for the sake of saving space.
