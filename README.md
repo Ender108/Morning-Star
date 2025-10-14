@@ -1,5 +1,5 @@
 # Morning Star
-Ascendance is a modlist that focuses on improving Skyrim’s gameplay and visuals.
+Morning Star is a modlist that focuses on improving Skyrim’s gameplay and visuals.
 
 **Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
 
