@@ -1,5 +1,4 @@
-# Morning Star
-Morning Star is a modlist that focuses on improving Skyrim’s gameplay and visuals.
+![](https://github.com/Ender108/Morning-Star/blob/main/Skyrim%20Special%20Edition%2010_14_2025%2012_22_14%20PM.png)
 
 **Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
 
