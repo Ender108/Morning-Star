@@ -1,6 +1,6 @@
 ![](https://github.com/Ender108/Morning-Star/blob/main/Skyrim%20Special%20Edition%2010_14_2025%2012_22_14%20PM.png)
 
-## [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
+## [Discord](https://discord.gg/4WwqfK5yHg) | Installation | [Load Order Library](https://loadorderlibrary.com/lists/morning-star-2)
 
 >[!IMPORTANT]
 >Morning Star requires the four free AE mods (Fishing, Rare Curios, Survival Mode, and Saints and Seducers) included in the Skyrim Anniversary Edition update from November 2021. This modlist does **NOT** utilize the AE DLC, only these four free AE mods are used.
