@@ -124,3 +124,21 @@ To install Morning Star, complete the following steps:
  5. Press the `Install` button.
  6. Turn on your favorite show or a nice long video essay as Wabbajack does its thing. Alternatively read through this readme again.
  7. If the installation is successful, then rejoice. If the installation is unsuccessful, follow the tips below or the [discord server](https://discord.gg/4WwqfK5yHg) for support.
+
+# Updating the modlist
+
+Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
+
+- `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
+- `MINOR`: Any release with a number change here will be considered a minor update, these updates will **not** be save safe, unless otherwise specified.
+- `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
+- In some rare cases, a fourth number will be used to designate a `HOTFIX`. These will only be utilized in cases where the list is recompiled with no other changes.
+
+Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite installation` button. Please keep in mind any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with `[NoDelete]`.
+
+>[!IMPORTANT]
+>Saves can be continued across **Save-Safe** updates. Updates will be indicated whether or not they are **Save-Safe** on the [Changelog](https://github.com/Ender108/Morning-Star/blob/main/Changelog.md). It is suggested that you backup your saves before updating if you plan on continuing them.
+
+# Removing the Modlist
+
+Simply delete the Apostasy folder. Congratulations, you have uninstalled Apostasy.
