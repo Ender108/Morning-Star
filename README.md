@@ -141,4 +141,4 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 # Removing the Modlist
 
-Simply delete the Apostasy folder. Congratulations, you have uninstalled Apostasy.
+Simply delete the Morning Star folder. Congratulations, you have uninstalled Apostasy.
