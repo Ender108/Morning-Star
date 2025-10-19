@@ -1,4 +1,4 @@
-## 1.0.1
+## 1.0.1 (19 October 2025)
 
 Key Info
 
@@ -31,5 +31,5 @@ Key Info
 
 </Details>
 
-## 1.0.0
+## 1.0.0 (18 October 2025)
 Release.
