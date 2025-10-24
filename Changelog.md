@@ -1,3 +1,20 @@
+## 1.0.3 (24 October 2025)
+
+Key Info
+
+ - This update is save safe.
+
+<Details>
+<summary>Changes</summary>
+
+### Added
+
+ - The College of Mages - Artificer Patch
+ - The College of Mages - Sorcerer Patch
+ - The College of Mages - USSEP Patch
+
+</Details>
+
 ## 1.0.2 (22 October 2025)
 
 Key Info
