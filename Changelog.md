@@ -1,3 +1,23 @@
+## 1.0.4 (25 October 2025)
+
+Key Info
+
+ - This update is save safe.
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+
+- Azurite III CS 1.0.4
+- Survival Mode Improved - SKSE RC3
+
+### Added
+
+ - Image Based Lighting - Community Shaders (unreleased)
+
+</Details>
+
 ## 1.0.3 (24 October 2025)
 
 Key Info
