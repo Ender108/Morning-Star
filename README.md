@@ -1,4 +1,4 @@
-![](https://github.com/Ender108/Morning-Star/blob/main/Skyrim%20Special%20Edition%2010_14_2025%2012_22_14%20PM.png)
+![](https://raw.githubusercontent.com/Ender108/Morning-Star/refs/heads/main/morning_star_title.webp)
 
 ## [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/174078) | [Discord](https://discord.gg/WF66mMu) | GitHub | [Load Order Library](https://loadorderlibrary.com/lists/morning-star-2) | [Changelog](https://github.com/Ender108/Morning-Star/blob/main/Changelog.md)
 
