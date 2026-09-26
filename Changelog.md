@@ -1,3 +1,17 @@
+## 1.0.0 - 9/26/2026
+Safe save from RC2.
+
+### Added
+- ImGui Icons
+- Photo Mode
+- Obsidian Weathers and Seasons MCM Patch
+- Obsidian Weathers and Seasons MCM Patch - Settings Loader
+- Armor Mesh Fixes SE
+- Better Fitting Helmets SE
+
+### Changes
+- Configured various MCM settings
+
 ## RC2 - 9/26/2026
 Save safe from RC1. I would recommend saving in an interior first before updating.
 
