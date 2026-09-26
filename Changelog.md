@@ -23,7 +23,9 @@ Save safe from RC1. I would recommend saving in an interior first before updatin
 
 ### Changes
 - Moved the brazier in Helgen Cave to the front of the character during RaceMenu
+- Increased global brightness very slightly
 - Reduced Cloud Relight intensity
+- Reverted Obsidian Weather's fast travel time multiplier changes
 
 ## RC1 - 9/24/2026
 Release
