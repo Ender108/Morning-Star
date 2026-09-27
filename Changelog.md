@@ -1,3 +1,21 @@
+## 1.0.1 - 9/27/2026
+
+### Added
+- First Person FOV and Tween Menu Fix SKSE
+- Sound Fix for Large Sector Drives
+- Auto Input Switch
+- Auto Audio Switch
+
+### Updated
+- Open Shaders
+
+### Changes
+- Fixed bad LOD Blending override json
+- Enabled Exponential Height Fog
+- Enabled Procedural Sun
+- Disabled Effect11 Image Based Lighting
+- Grass Optimization is enabled now, should result in a few more frames
+
 ## 1.0.0 - 9/26/2026
 Safe save from RC2.
 
