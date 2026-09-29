@@ -1,5 +1,7 @@
 ## 1.0.1 - 9/27/2026
 
+Save safe from 1.0.0.
+
 ### Added
 - First Person FOV and Tween Menu Fix SKSE
 - Sound Fix for Large Sector Drives
