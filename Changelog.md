@@ -1,3 +1,28 @@
+## 1.0.2 - 10/3/2026
+
+Save safe from 1.0.0 and above.
+
+### Added
+- Block Condition Freeze CTD Fix
+- Inventory Insight - Previews and Follower Stats
+- Alchemy Effect Icons
+- Music Queue Fix
+- Bear Race Fixes
+- Merethic Grasslands PBR
+- Shadow Scene Node Crash Fix
+- Reticle Arcs
+
+### Updated
+- Open Shaders
+- Simplicity of Snow Sulfur Ash Moss
+- Autoblend
+- XPMF - Extended Projected Materials Framework
+
+### Changes
+- Disabled a bunch of extra features from Sanguine Symphony, purely a blood retexture now
+- Set sun path to vanilla in Sky Sync to fix double sun issue
+- Added scene settings to make grass lighting less bright during dawn/dusk
+
 ## 1.0.1 - 9/27/2026
 
 Save safe from 1.0.0.
